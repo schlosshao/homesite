@@ -1,1 +1,1 @@
-[JavaScript入门](https://github.com/xugy0926/getting-started-with-javascript)
+[JavaScript入门](https://xugy0926.github.io/getting-started-with-javascript/)
